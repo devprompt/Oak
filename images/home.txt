@@ -1,0 +1,110 @@
+#INTRODUCTION
+
+Oak Digital Workplace
+
+A digital workplace for enterprises that need to communicate with their workforce wherever they are, we make it possible to connect, engage and collaborate from any device.
+
+Oak Digital Workplace for Enterprises
+
+
+
+
+
+#LAUNCH 
+
+Launch in days with Oak Quick Connect ›
+
+Stay engaged, connected and up-to-date during times of urgency and change.
+
+Oak Quick Connect
+
+
+
+
+
+#Experience
+
+Enhance your employee experience
+
+Our Digital Workplace is designed to get the most out of your team. Oak is intuitive and easy to use, and with a variety of features focussed specifically on promoting staff engagement, keeping your people involved for longer and more productive than ever.
+
+
+
+
+
+#Support
+
+Expert Insights and Support
+
+From advice on information architecture, design, intranet governance, and even security we can provide you with the expertise to help make your Oak Digital Workplace as engaging as possible. And when you need it, our dedicated Customer Success team is ready to answer any query you have.
+
+Onboarding & Support
+
+
+
+
+
+#Testimonies
+
+ Hear what our customers have to say
+
+ #box1
+
+ After looking at a way to transform the way they communicated with their 32,000 workforce, Aldi partnered with Oak to create MyAldi. A mobile-first platform designed to engage and connect their large store-based workforce without access to a desktop.
+
+Read more about Aldi
+
+#box2
+
+Halfords Autocentres needed a modern and intuitive platform to connect with their employees. With the help of Oak, Halfords developed a digital workplace that was up and running within weeks, and has enabled them to have a consistent method of communication.
+
+Read more about Halfords
+
+#box3
+With a large global workforce, OEC needed to communicate with all their employees quickly and efficiently. With Oak, OEC saw increased engagement in all their offices and they can now share and manage documents in one area that all employees can access.
+
+Read more about OEC
+
+
+
+
+See all customer stories
+
+
+
+#DEMO
+
+
+Want to see more?
+Get a demo with one of our digital workplace experts and see how Oak could work for you
+Arrange a demo
+
+
+
+
+
+#Base Info
+
+Product
+Corporate & Enterprise
+Oak Quick Connect
+
+Services
+Onboarding & Support
+
+Customer
+Customer Stories
+Pricing
+
+Oak
+About Us
+FAQs
+Contact
+
+
+#FOOTER
+ &copy; Oak Engage 2020. All rights reserved.
+View our website privacy policy here and our application privacy policy here.
+
+
+ symfony new datafoxx-1.0 --full
