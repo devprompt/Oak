@@ -5,3 +5,5 @@ Simple Oak clone
 html 5
 css 3
 javascript
+scss
+less
